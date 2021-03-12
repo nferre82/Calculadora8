@@ -11,6 +11,7 @@ public class Calculadora {
 
 	public int suma() {
 		int resul = num1 + num2;
+		System.out.println("esto es suma");
 		return resul;
 	}
 
